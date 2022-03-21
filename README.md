@@ -1,4 +1,4 @@
-# Corona Drug Discovery
+# Covid Drug Discovery
 
 
 ## Introduction
